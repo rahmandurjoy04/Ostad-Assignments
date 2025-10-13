@@ -1,0 +1,8 @@
+Module 2_Assignment
+Assignment :
+
+Create a list called fruits with items: "apple", "banana", "cherry". Add "orange" to the end, remove "banana", and sort the list alphabetically. Print the final list and its length.
+
+Create a dictionary called student with keys: name, age, and grade. Add a new key city with any value. Update the grade to a new value. Print all keys and the final dictionary.
+
+Write a function calculate_total(price, quantity, discount=0) that calculates total cost. The discount parameter should default to 0. Return the final price after applying the discount percentage. Test with: calculate_total(100, 2, 10) (should return 180).
